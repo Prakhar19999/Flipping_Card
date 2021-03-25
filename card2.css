@@ -41,6 +41,8 @@
         color: #FFF;
         -webkit-transform: rotateX(180deg);
         transform: rotateX(180deg);
+        background-image:url(wp2458609-indian-premier-league-wallpapers.jpg);
+        background-size: 300px 200px;
     }
     .card2 .front2 {
         background: #FFF;

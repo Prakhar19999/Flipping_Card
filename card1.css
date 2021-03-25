@@ -1,4 +1,6 @@
 .label1 {
+    border-width:10px;
+    border-color: white; 
     -webkit-perspective: 1000px;
     perspective: 1000px;
     -webkit-transform-style: preserve-3d;
@@ -37,7 +39,8 @@
     }
 
     .card1 .back1 {
-        background: #222;
+        background-image:url(wp4166466-csk-logo-wallpapers.jpg);
+        background-size: 300px 200px;
         color: #FFF;
         -webkit-transform: rotateX(180deg);
         transform: rotateX(180deg);

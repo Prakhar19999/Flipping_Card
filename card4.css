@@ -39,6 +39,8 @@
     .card4 .back4 {
         background: #222;
         color: #FFF;
+        background-image:url(wp4128423-sunrisers-hyderabad-wallpapers.jpg);
+        background-size: 300px 200px;
         -webkit-transform: rotateX(180deg);
         transform: rotateX(180deg);
     }

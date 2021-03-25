@@ -41,6 +41,8 @@
         color: #FFF;
         -webkit-transform: rotateX(180deg);
         transform: rotateX(180deg);
+        background-image:url(Rajasthan-Royals.jpg);
+        background-size: 300px 200px;
     }
     .card6 .front6 {
         background: #FFF;

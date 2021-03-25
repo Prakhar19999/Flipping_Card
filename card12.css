@@ -7,7 +7,7 @@
     width: 300px;
     height: 200px;
     position: absolute;
-    left: 40%;
+    left: 30%;
     top: 75%;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
@@ -41,10 +41,12 @@
         color: #FFF;
         -webkit-transform: rotateX(180deg);
         transform: rotateX(180deg);
+        background-image:url(e0ca868fd1b9bc9421a0067961f37a07.jpg);
+        background-size: 300px 200px;
     }
     .card12 .front12 {
         background: #FFF;
-        background-image:url(auction_card12.jpg);
+        background-image:url(auction_card11.jpg);
         background-repeat: no-repeat;
         background-size: 300px 200px;
     }

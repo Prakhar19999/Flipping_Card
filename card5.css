@@ -39,6 +39,8 @@
     .card5 .back5 {
         background: #222;
         color: #FFF;
+         background-image:url(Delhi-Capitals-logo.jpg);
+        background-size: 300px 200px;
         -webkit-transform: rotateX(180deg);
         transform: rotateX(180deg);
     }

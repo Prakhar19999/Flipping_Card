@@ -4,7 +4,7 @@
     -webkit-transform-style: preserve-3d;
     transform-style: preserve-3d;
     display: block;
-    width: 300px;
+    width: 450px;
     height: 200px;
     position: absolute;
     left: 50%;
@@ -37,16 +37,17 @@
     }
 
     .card8 .back8 {
-        background: #222;
+        background: #1a0033;
         color: #FFF;
         -webkit-transform: rotateX(180deg);
         transform: rotateX(180deg);
     }
     .card8 .front8 {
-        background: #FFF;
-        background-image:url(auction_card8.jpg);
+        color: white;
+        background: #1a0033;
+        background-image:url(ESummitText.png);
         background-repeat: no-repeat;
-        background-size: 300px 200px;
+        background-size: 450px 200px;
     }
 
     label:hover .card8 {

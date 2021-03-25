@@ -41,10 +41,12 @@
         color: #FFF;
         -webkit-transform: rotateX(180deg);
         transform: rotateX(180deg);
+        background-image:url(bbl-perth-scorchers.jpg);
+        background-size: 300px 200px;
     }
     .card10 .front10 {
         background: #FFF;
-        background-image:url(auction_card10.jpg);
+        background-image:url(auction_card9.jpg);
         background-repeat: no-repeat;
         background-size: 300px 200px;
     }

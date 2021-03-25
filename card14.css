@@ -7,7 +7,7 @@
     width: 300px;
     height: 200px;
     position: absolute;
-    left: 80%;
+    left: 70%;
     top: 75%;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
@@ -41,10 +41,12 @@
         color: #FFF;
         -webkit-transform: rotateX(180deg);
         transform: rotateX(180deg);
+         background-image:url(RCB-Logo_571_855.jpg);
+        background-size: 300px 200px;
     }
     .card14 .front14 {
         background: #FFF;
-        background-image:url(auction_card14.jpg);
+        background-image:url(auction_card13.jpg);
         background-repeat: no-repeat;
         background-size: 300px 200px;
     }

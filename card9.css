@@ -41,10 +41,12 @@
         color: #FFF;
         -webkit-transform: rotateX(180deg);
         transform: rotateX(180deg);
+        background-image:url(wp5040445.jpg);
+        background-size: 300px 200px;
     }
     .card9 .front9 {
         background: #FFF;
-        background-image:url(auction_card9.jpg);
+        background-image:url(auction_card8.jpg);
         background-repeat: no-repeat;
         background-size: 300px 200px;
     }

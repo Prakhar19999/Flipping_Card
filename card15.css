@@ -1,4 +1,4 @@
-.label7 {
+.label15 {
     -webkit-perspective: 1000px;
     perspective: 1000px;
     -webkit-transform-style: preserve-3d;
@@ -7,13 +7,13 @@
     width: 300px;
     height: 200px;
     position: absolute;
-    left: 30%;
-    top: 45%;
+    left: 90%;
+    top: 75%;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     cursor: pointer;
 }
-    .card7 {
+    .card15 {
     position: relative;
     height: 100%;
     width: 100%;
@@ -24,7 +24,7 @@
     z-index: 20;
     }
 
-    .card7 div {
+    .card15 div {
         position: absolute;
         height: 100%;
         width: 100%;
@@ -36,22 +36,22 @@
         border-radius: 2px;
     }
 
-    .card7 .back7 {
+    .card15 .back15 {
         background: #222;
         color: #FFF;
         -webkit-transform: rotateX(180deg);
         transform: rotateX(180deg);
-        background-image:url(Melbourne-Stars.jpg);
+         background-image:url(ba985170137cf65b61fa88bbcdbd6cdf.jpg);
         background-size: 300px 200px;
     }
-    .card7 .front7 {
+    .card15 .front15 {
         background: #FFF;
-        background-image:url(auction_card7.jpg);
+        background-image:url(auction_card14.jpg);
         background-repeat: no-repeat;
         background-size: 300px 200px;
     }
 
-    label:hover .card7 {
+    label:hover .card15 {
         -webkit-transform: rotateX(20deg);
         transform: rotateX(20deg);
         box-shadow: 0 20px 20px rgba(50,50,50,.2);
@@ -61,12 +61,12 @@
         display: none;
     }
 
-    :checked + .card7 {
+    :checked + .card15 {
         transform: rotateX(180deg);
         -webkit-transform: rotateX(180deg);
     }
 
-    label:hover :checked + .card7 {
+    label:hover :checked + .card15 {
         transform: rotateX(160deg);
         -webkit-transform: rotateX(160deg);
         box-shadow: 0 20px 20px rgba(255,255,255,.2);

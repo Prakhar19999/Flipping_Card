@@ -33,7 +33,7 @@
         line-height: 200px;
         -webkit-backface-visibility: hidden;
         backface-visibility: hidden;
-        border-radius: 2px;
+        border-radius: 10px;
     }
 
     .card6 .back6 {
@@ -46,7 +46,7 @@
     }
     .card6 .front6 {
         background: #FFF;
-        background-image:url(auction_card6.jpg);
+        background-image:url(auction_card6.png);
         background-repeat: no-repeat;
         background-size: 300px 200px;
     }

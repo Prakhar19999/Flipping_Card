@@ -33,20 +33,22 @@
         line-height: 200px;
         -webkit-backface-visibility: hidden;
         backface-visibility: hidden;
-        border-radius: 2px;
+        border-radius: 10px;
     }
 
     .card12 .back12 {
-        background: #222;
+        background: rgb(0, 204, 255);
         color: #FFF;
         -webkit-transform: rotateX(180deg);
         transform: rotateX(180deg);
-        background-image:url(e0ca868fd1b9bc9421a0067961f37a07.jpg);
-        background-size: 300px 200px;
+        background-image:url(GT.png);
+        background-size: 150px 150px;
+        background-repeat: no-repeat !important;
+        background-position: center !important;
     }
     .card12 .front12 {
         background: #FFF;
-        background-image:url(auction_card11.jpg);
+        background-image:url(auction_card11.png);
         background-repeat: no-repeat;
         background-size: 300px 200px;
     }

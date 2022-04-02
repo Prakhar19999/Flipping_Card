@@ -33,7 +33,7 @@
         line-height: 200px;
         -webkit-backface-visibility: hidden;
         backface-visibility: hidden;
-        border-radius: 2px;
+        border-radius: 10px;
     }
 
     .card7 .back7 {
@@ -41,12 +41,12 @@
         color: #FFF;
         -webkit-transform: rotateX(180deg);
         transform: rotateX(180deg);
-        background-image:url(Melbourne-Stars.jpg);
+        background-image:url(wp4166466-csk-logo-wallpapers.jpg);
         background-size: 300px 200px;
     }
     .card7 .front7 {
         background: #FFF;
-        background-image:url(auction_card7.jpg);
+        background-image:url(auction_card7.png);
         background-repeat: no-repeat;
         background-size: 300px 200px;
     }

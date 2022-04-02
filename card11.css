@@ -33,7 +33,7 @@
         line-height: 200px;
         -webkit-backface-visibility: hidden;
         backface-visibility: hidden;
-        border-radius: 2px;
+        border-radius: 10px;
     }
 
     .card11 .back11 {
@@ -41,12 +41,12 @@
         color: #FFF;
         -webkit-transform: rotateX(180deg);
         transform: rotateX(180deg);
-        background-image:url(Hobart_Hurricanes_Logo.jpg);
+        background-image:url(HH.jpg);
         background-size: 300px 200px;
     }
     .card11 .front11 {
         background: #FFF;
-        background-image:url(auction_card10.jpg);
+        background-image:url(auction_card10.png);
         background-repeat: no-repeat;
         background-size: 300px 200px;
     }

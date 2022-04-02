@@ -33,7 +33,7 @@
         line-height: 200px;
         -webkit-backface-visibility: hidden;
         backface-visibility: hidden;
-        border-radius: 2px;
+        border-radius: 10px;
     }
 
     .card15 .back15 {
@@ -41,12 +41,12 @@
         color: #FFF;
         -webkit-transform: rotateX(180deg);
         transform: rotateX(180deg);
-         background-image:url(ba985170137cf65b61fa88bbcdbd6cdf.jpg);
+        background-image:url(ST.png);
         background-size: 300px 200px;
     }
     .card15 .front15 {
         background: #FFF;
-        background-image:url(auction_card14.jpg);
+        background-image:url(auction_card15.png);
         background-repeat: no-repeat;
         background-size: 300px 200px;
     }
